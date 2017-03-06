@@ -1,0 +1,9 @@
+c:\users\tjalters\documents\visual studio 2015\Projects\CustomList\CustomListTest\bin\Debug\CustomListTest.dll
+c:\users\tjalters\documents\visual studio 2015\Projects\CustomList\CustomListTest\bin\Debug\CustomListTest.pdb
+c:\users\tjalters\documents\visual studio 2015\Projects\CustomList\CustomListTest\bin\Debug\CustomListProject.exe
+c:\users\tjalters\documents\visual studio 2015\Projects\CustomList\CustomListTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\tjalters\documents\visual studio 2015\Projects\CustomList\CustomListTest\bin\Debug\CustomListProject.pdb
+c:\users\tjalters\documents\visual studio 2015\Projects\CustomList\CustomListTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\tjalters\documents\visual studio 2015\Projects\CustomList\CustomListTest\obj\Debug\CustomListTest.csprojResolveAssemblyReference.cache
+c:\users\tjalters\documents\visual studio 2015\Projects\CustomList\CustomListTest\obj\Debug\CustomListTest.dll
+c:\users\tjalters\documents\visual studio 2015\Projects\CustomList\CustomListTest\obj\Debug\CustomListTest.pdb
