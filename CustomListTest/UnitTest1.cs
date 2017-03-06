@@ -283,6 +283,7 @@ namespace CustomListTest
             Assert.AreEqual(addedItem, zipList[4]);
             Assert.AreEqual(addedItem, zipList[5]);
         }
+        [TestMethod]
         public void Add_AddTwoStringsToZipList_PlaceInProperIndex()
         {
             CustomList<string> listOne = new CustomList<string> { "go", "stop" };
@@ -299,6 +300,7 @@ namespace CustomListTest
 
 
         }
+        [TestMethod]
         public void ZipList_CheckToSeeIfPlacedInProperIndex()
         {
             CustomList<int> listOne = new CustomList<int> { 1, 2 };
